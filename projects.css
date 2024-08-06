@@ -101,6 +101,9 @@ h1{
     box-sizing: border-box;
     padding: 0 10px;
 }
+.text-container {
+    margin-bottom: 20px;
+}
 @media (max-width: 480px) {
     .pic-container {
         flex-direction: column;
